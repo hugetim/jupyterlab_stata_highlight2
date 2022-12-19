@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/hugetim/jupyterlab_stata_highlight2/issues"
   },
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "author": {
     "name": "Tim Huegerich",
     "email": "hugetim@gmail.com"
