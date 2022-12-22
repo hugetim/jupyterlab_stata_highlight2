@@ -14,6 +14,12 @@ JupyterLab extension for Stata syntax highlighting similar to the Stata IDE's.
 pip install jupyterlab_stata_highlight2
 ```
 
+### Uninstall
+
+```bash
+pip uninstall jupyterlab_stata_highlight2
+```
+
 ## Contributing
 
 ### Development install
@@ -52,13 +58,7 @@ By default, the `jlpm run build` command generates the source maps for this exte
 jupyter lab build --minimize=False
 ```
 
-### Uninstall
-
-```bash
-pip uninstall jupyterlab_stata_highlight2
-```
-
-## Updating the version
+### Updating the version
 
 To update the version, install tbump and use it to bump the version.
 By default it will also create a tag.
