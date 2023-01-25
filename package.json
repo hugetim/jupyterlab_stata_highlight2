@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab_stata_highlight2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "JupyterLab extension for Stata syntax highlighting similar to the Stata IDE's.",
   "keywords": [
     "jupyter",
