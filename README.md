@@ -58,16 +58,6 @@ By default, the `jlpm run build` command generates the source maps for this exte
 jupyter lab build --minimize=False
 ```
 
-### Updating the version
-
-To update the version, install tbump and use it to bump the version.
-By default it will also create a tag.
-
-```bash
-pip install tbump
-tbump <new-version>
-```
-
 ## Predecessor license notices
 Extension boilerplate originated in Project Jupyter's https://github.com/jupyterlab/extension-cookiecutter-js
 Extension content forked from Kyle Barron's https://github.com/kylebarron/jupyterlab-stata-highlight
