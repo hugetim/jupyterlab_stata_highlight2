@@ -6,7 +6,7 @@ JupyterLab extension for Stata syntax highlighting similar to the Stata IDE's.
 
 ## Requirements
 
-* JupyterLab >= 3.1
+* JupyterLab >= 3.1, < 4.0
 
 ## Install
 
